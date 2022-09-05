@@ -97,7 +97,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+## git clone https://github.com/argvchs/hexo-theme-particlex.git themes\particlex
+## git clone https://github.com/theme-materialized/hexo-theme-materialized themes/materialized
+## https://github.com/volantis-x/hexo-theme-volantis/
+theme: materialized
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
